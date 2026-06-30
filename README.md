@@ -25,6 +25,12 @@ Testing de API REST sobre endpoints públicos.
 - 1 bug + 2 observaciones documentadas
 - Herramienta: Postman
 
+### [03 — DemoQA Forms](./03-demoqa-forms/)
+Testing de validación sobre formularios web complejos.
+- 18 casos de prueba
+- 3 bugs + 2 observaciones documentadas
+- Herramienta: Chrome / testing manual
+
 ---
 
 ## Skills
